@@ -1,0 +1,31 @@
+---
+
+# jenkins variables
+project_name: docker-kometa
+external_type: github_commit
+release_type: prerelease
+release_tag: nightly
+ls_branch: nightly
+repo_vars:
+  - EXT_GIT_BRANCH = 'nightly'
+  - EXT_USER = 'Kometa-Team'
+  - EXT_REPO = 'Kometa'
+  - BUILD_VERSION_ARG = 'KOMETA_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-kometa'
+  - CONTAINER_NAME = 'kometa'
+  - DOCKERHUB_IMAGE = 'linuxserver/kometa'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/kometa'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/kometa'
+  - DIST_IMAGE = 'alpine'
+  - MULTIARCH='true'
+  - CI='true'
+  - CI_WEB='false'
+  - CI_PORT=''
+  - CI_SSL=''
+  - CI_DELAY='120'
+  - CI_DOCKERENV='TZ=Europe/London'
+  - CI_AUTH=''
+  - CI_WEBPATH=''
+sponsor_links:
+  - { name: "Kometa", url: "https://github.com/sponsors/meisnate12" }
