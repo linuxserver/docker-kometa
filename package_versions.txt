@@ -1,6 +1,6 @@
 NAME                    VERSION                TYPE                    
 GitPython               3.1.43                 python                   
-PlexAPI                 4.15.12                python                   
+PlexAPI                 4.15.13                python                   
 Simple Launcher         1.1.0.14               dotnet  (+5 duplicates)  
 alpine-baselayout       3.4.3-r2               apk                      
 alpine-baselayout-data  3.4.3-r2               apk                      
@@ -53,7 +53,7 @@ libproc2                4.0.4-r0               apk
 libssl3                 3.1.4-r6               apk                      
 libstdc++               13.2.1_git20231014-r0  apk                      
 libunistring            1.1-r2                 apk                      
-libxml2                 2.11.7-r0              apk                      
+libxml2                 2.11.8-r0              apk                      
 libxslt                 1.1.39-r0              apk                      
 linux-pam               1.5.3-r7               apk                      
 lxml                    5.2.2                  python                   
