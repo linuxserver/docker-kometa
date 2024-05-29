@@ -31,7 +31,7 @@ pipeline {
     MULTIARCH='true'
     CI='true'
     CI_WEB='false'
-    CI_PORT=''
+    CI_PORT='80'
     CI_SSL=''
     CI_DELAY='60'
     CI_DOCKERENV='TZ=Europe/London'
