@@ -16,7 +16,7 @@ c-ares                  1.27.0-r0              apk
 ca-certificates         20240226-r0            apk                      
 ca-certificates-bundle  20240226-r0            apk                      
 catatonit               0.2.0-r0               apk                      
-certifi                 2024.2.2               python                   
+certifi                 2024.6.2               python                   
 charset-normalizer      3.3.2                  python                   
 coreutils               9.4-r2                 apk                      
 coreutils-env           9.4-r2                 apk                      
