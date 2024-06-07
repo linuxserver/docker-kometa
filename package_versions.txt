@@ -79,7 +79,6 @@ python3-pyc             3.12.3-r1              apk
 python3-pycache-pyc0    3.12.3-r1              apk                      
 readline                8.2.10-r0              apk                      
 requests                2.32.3                 python                   
-retrying                1.3.4                  python                   
 ruamel.yaml             0.18.6                 python                   
 ruamel.yaml.clib        0.2.8                  python                   
 scanelf                 1.3.7-r2               apk                      
@@ -91,6 +90,7 @@ skalibs                 2.14.1.1-r0            apk
 smmap                   5.0.1                  python                   
 sqlite-libs             3.45.3-r1              apk                      
 ssl_client              1.36.1-r28             apk                      
+tenacity                8.3.0                  python                   
 tmdbapis                1.2.16                 python                   
 tzdata                  2024a-r1               apk                      
 urllib3                 2.2.1                  python                   
