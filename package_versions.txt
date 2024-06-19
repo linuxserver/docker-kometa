@@ -70,7 +70,7 @@ pcre2                   10.43-r0               apk
 pillow                  10.3.0                 python                   
 pip                     24.0                   python                   
 procps-ng               4.0.4-r0               apk                      
-psutil                  5.9.8                  python                   
+psutil                  6.0.0                  python                   
 pyc                     3.12.3-r1              apk                      
 python-dateutil         2.9.0.post0            python                   
 python-dotenv           1.0.1                  python                   
@@ -90,7 +90,7 @@ skalibs                 2.14.1.1-r0            apk
 smmap                   5.0.1                  python                   
 sqlite-libs             3.45.3-r1              apk                      
 ssl_client              1.36.1-r29             apk                      
-tenacity                8.3.0                  python                   
+tenacity                8.4.1                  python                   
 tmdbapis                1.2.16                 python                   
 tzdata                  2024a-r1               apk                      
 urllib3                 2.2.2                  python                   
