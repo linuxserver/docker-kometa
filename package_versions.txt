@@ -93,7 +93,7 @@ ssl_client              1.36.1-r29             apk
 tenacity                8.3.0                  python                   
 tmdbapis                1.2.16                 python                   
 tzdata                  2024a-r1               apk                      
-urllib3                 2.2.1                  python                   
+urllib3                 2.2.2                  python                   
 utmps-libs              0.1.2.2-r1             apk                      
 wheel                   0.43.0                 python                   
 xz-libs                 5.6.1-r3               apk                      
