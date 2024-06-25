@@ -6,7 +6,6 @@ project_url: "https://github.com/Kometa-Team/Kometa"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kometa-banner.png"
 project_blurb: "[{{ project_name|capitalize }}]({{ project_url }}) is a powerful tool designed to give you complete control over your media libraries. With {{ project_name|capitalize }}, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more."
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
-project_blurb_optional_extras_enabled: false
 
 # supported architectures
 available_architectures:
@@ -23,16 +22,9 @@ development_versions_items:
 # container parameters
 common_param_env_vars_enabled: true
 param_container_name: "{{ project_name }}"
-param_usage_include_net: false
-param_usage_include_env: true
-param_env_vars:
-  - { env_var: "TZ", env_value: "Europe/London", desc: "Specify a timezone to use EG Europe/London." }
 param_usage_include_vols: true
 param_volumes:
   - { vol_path: "/config", vol_host_path: "/path/to/{{ project_name }}/config", desc: "Persistent config files" }
-param_usage_include_ports: false
-param_device_map: false
-cap_add_param: false
 
 # optional container parameters
 opt_param_usage_include_env: true
@@ -42,11 +34,6 @@ opt_param_env_vars:
   - { env_var: "KOMETA_RUN", env_value: "False", desc: "Set to `True` to run without the scheduler." }
   - { env_var: "KOMETA_TEST", env_value: "False", desc: "Set to `True` to run in debug mode with only collections that have `test: true`." }
   - { env_var: "KOMETA_NO_MISSING", env_value: "False", desc: "Set to `True` to run without any of the missing movie/show functions." }
-opt_param_usage_include_vols: false
-opt_param_usage_include_ports: false
-opt_param_device_map: false
-opt_cap_add_param: false
-optional_block_1: false
 
 # application setup block
 app_setup_block_enabled: true
@@ -61,4 +48,5 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "24.06.24:", desc: "Rebase to Alpine 3.20." }
   - { date: "22.04.24:", desc: "Initial Release." }

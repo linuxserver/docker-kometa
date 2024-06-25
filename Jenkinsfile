@@ -34,7 +34,7 @@ pipeline {
     CI_PORT='80'
     CI_SSL=''
     CI_DELAY='60'
-    CI_DOCKERENV='TZ=Europe/London'
+    CI_DOCKERENV=''
     CI_AUTH=''
     CI_WEBPATH=''
   }
