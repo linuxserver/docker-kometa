@@ -16,7 +16,7 @@ c-ares                  1.28.1-r0              apk
 ca-certificates         20240226-r0            apk                      
 ca-certificates-bundle  20240226-r0            apk                      
 catatonit               0.2.0-r0               apk                      
-certifi                 2024.6.2               python                   
+certifi                 2024.7.4               python                   
 charset-normalizer      3.3.2                  python                   
 coreutils               9.5-r1                 apk                      
 coreutils-env           9.5-r1                 apk                      
@@ -68,7 +68,7 @@ oniguruma               6.9.9-r0               apk
 pathvalidate            3.2.0                  python                   
 pcre2                   10.43-r0               apk                      
 pillow                  10.4.0                 python                   
-pip                     24.1.1                 python                   
+pip                     24.1.2                 python                   
 procps-ng               4.0.4-r0               apk                      
 psutil                  6.0.0                  python                   
 pyc                     3.12.3-r1              apk                      
