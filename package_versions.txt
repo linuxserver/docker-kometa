@@ -1,11 +1,9 @@
 NAME                    VERSION                TYPE                    
-GitPython               3.1.43                 python                   
-PlexAPI                 4.15.14                python                   
 Simple Launcher         1.1.0.14               dotnet  (+5 duplicates)  
 alpine-baselayout       3.6.5-r0               apk                      
 alpine-baselayout-data  3.6.5-r0               apk                      
 alpine-keys             2.4-r1                 apk                      
-alpine-release          3.20.1-r0              apk                      
+alpine-release          3.20.2-r0              apk                      
 apk-tools               2.14.4-r0              apk                      
 arrapi                  1.4.13                 python                   
 bash                    5.2.26-r0              apk                      
@@ -22,11 +20,12 @@ coreutils               9.5-r1                 apk
 coreutils-env           9.5-r1                 apk                      
 coreutils-fmt           9.5-r1                 apk                      
 coreutils-sha512sum     9.5-r1                 apk                      
-curl                    8.8.0-r0               apk                      
+curl                    8.9.0-r0               apk                      
 docopt                  0.6.2                  python                   
 findutils               4.9.0-r5               apk                      
 gdbm                    1.23-r1                apk                      
 gitdb                   4.0.11                 python                   
+gitpython               3.1.43                 python                   
 grep                    3.11-r0                apk                      
 idna                    3.7                    python                   
 jq                      1.7.1-r0               apk                      
@@ -35,7 +34,7 @@ libattr                 2.5.2-r0               apk
 libbsd                  0.12.2-r0              apk                      
 libbz2                  1.0.8-r6               apk                      
 libcrypto3              3.3.1-r3               apk                      
-libcurl                 8.8.0-r0               apk                      
+libcurl                 8.9.0-r0               apk                      
 libexpat                2.6.2-r0               apk                      
 libffi                  3.4.6-r0               apk                      
 libgcc                  13.2.1_git20240309-r0  apk                      
@@ -68,7 +67,8 @@ oniguruma               6.9.9-r0               apk
 pathvalidate            3.2.0                  python                   
 pcre2                   10.43-r0               apk                      
 pillow                  10.4.0                 python                   
-pip                     24.1.2                 python                   
+pip                     24.2                   python                   
+plexapi                 4.15.14                python                   
 procps-ng               4.0.4-r0               apk                      
 psutil                  6.0.0                  python                   
 pyc                     3.12.3-r1              apk                      
@@ -79,8 +79,8 @@ python3-pyc             3.12.3-r1              apk
 python3-pycache-pyc0    3.12.3-r1              apk                      
 readline                8.2.10-r0              apk                      
 requests                2.32.3                 python                   
-ruamel.yaml             0.18.6                 python                   
-ruamel.yaml.clib        0.2.8                  python                   
+ruamel-yaml             0.18.6                 python                   
+ruamel-yaml-clib        0.2.8                  python                   
 scanelf                 1.3.7-r2               apk                      
 schedule                1.2.2                  python                   
 setuptools              70.2.0                 python                   
