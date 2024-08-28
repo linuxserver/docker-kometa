@@ -29,7 +29,7 @@ gdbm                    1.23-r1                apk
 gitdb                   4.0.11                 python                   
 gitpython               3.1.43                 python                   
 grep                    3.11-r0                apk                      
-idna                    3.7                    python                   
+idna                    3.8                    python                   
 importlib-metadata      8.0.0                  python                   
 importlib-resources     6.4.0                  python                   
 inflect                 7.3.1                  python                   
@@ -84,12 +84,12 @@ platformdirs            4.2.2                  python
 plexapi                 4.15.15                python                   
 procps-ng               4.0.4-r0               apk                      
 psutil                  6.0.0                  python                   
-pyc                     3.12.3-r1              apk                      
+pyc                     3.12.3-r2              apk                      
 python-dateutil         2.9.0.post0            python                   
 python-dotenv           1.0.1                  python                   
-python3                 3.12.3-r1              apk                      
-python3-pyc             3.12.3-r1              apk                      
-python3-pycache-pyc0    3.12.3-r1              apk                      
+python3                 3.12.3-r2              apk                      
+python3-pyc             3.12.3-r2              apk                      
+python3-pycache-pyc0    3.12.3-r2              apk                      
 readline                8.2.10-r0              apk                      
 requests                2.32.3                 python                   
 ruamel-yaml             0.18.6                 python                   
