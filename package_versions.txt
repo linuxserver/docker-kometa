@@ -104,7 +104,7 @@ smmap                   5.0.1                  python
 sqlite-libs             3.45.3-r1              apk                      
 ssl_client              1.36.1-r29             apk                      
 tenacity                9.0.0                  python                   
-tmdbapis                1.2.20                 python                   
+tmdbapis                1.2.21                 python                   
 tomli                   2.0.1                  python                   
 typeguard               4.3.0                  python                   
 typing-extensions       4.12.2                 python                   
