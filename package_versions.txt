@@ -84,12 +84,12 @@ platformdirs            4.2.2                  python
 plexapi                 4.15.16                python                   
 procps-ng               4.0.4-r0               apk                      
 psutil                  6.0.0                  python                   
-pyc                     3.12.6-r0              apk                      
+pyc                     3.12.7-r0              apk                      
 python-dateutil         2.9.0.post0            python                   
 python-dotenv           1.0.1                  python                   
-python3                 3.12.6-r0              apk                      
-python3-pyc             3.12.6-r0              apk                      
-python3-pycache-pyc0    3.12.6-r0              apk                      
+python3                 3.12.7-r0              apk                      
+python3-pyc             3.12.7-r0              apk                      
+python3-pycache-pyc0    3.12.7-r0              apk                      
 readline                8.2.10-r0              apk                      
 requests                2.32.3                 python                   
 ruamel-yaml             0.18.6                 python                   
