@@ -93,7 +93,7 @@ python3-pycache-pyc0    3.12.7-r0              apk
 readline                8.2.10-r0              apk                      
 requests                2.32.3                 python                   
 ruamel-yaml             0.18.6                 python                   
-ruamel-yaml-clib        0.2.8                  python                   
+ruamel-yaml-clib        0.2.12                 python                   
 scanelf                 1.3.7-r2               apk                      
 schedule                1.2.2                  python                   
 setuptools              75.1.0                 python                   
