@@ -77,10 +77,12 @@ To perform a one-time run use `docker run` (or `docker compose run`) with the `-
 
 For more information see the [official wiki](https://kometa.wiki).
 
- 
 ## Usage
 
 To help you get started creating a container from this image you can either use docker-compose or the docker cli.
+
+>[!NOTE]
+>Unless a parameter is flaged as 'optional', it is *mandatory* and a value must be provided.
 
 ### docker-compose (recommended, [click here for more info](https://docs.linuxserver.io/general/docker-compose))
 
