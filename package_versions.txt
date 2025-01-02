@@ -27,7 +27,7 @@ curl                    8.11.1-r0         apk
 docopt                  0.6.2             python                   
 findutils               4.10.0-r0         apk                      
 gdbm                    1.24-r0           apk                      
-gitdb                   4.0.11            python                   
+gitdb                   4.0.12            python                   
 gitpython               3.1.43            python                   
 grep                    3.11-r0           apk                      
 idna                    3.10              python                   
@@ -99,7 +99,7 @@ setuptools              75.6.0            python
 shadow                  4.16.0-r1         apk                      
 six                     1.17.0            python                   
 skalibs-libs            2.14.3.0-r0       apk                      
-smmap                   5.0.1             python                   
+smmap                   5.0.2             python                   
 sqlite-libs             3.47.1-r0         apk                      
 ssl_client              1.37.0-r9         apk                      
 tenacity                9.0.0             python                   
