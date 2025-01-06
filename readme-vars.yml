@@ -31,6 +31,8 @@ opt_param_env_vars:
   - {env_var: "KOMETA_RUN", env_value: "False", desc: "Set to `True` to run without the scheduler."}
   - {env_var: "KOMETA_TEST", env_value: "False", desc: "Set to `True` to run in debug mode with only collections that have `test: true`."}
   - {env_var: "KOMETA_NO_MISSING", env_value: "False", desc: "Set to `True` to run without any of the missing movie/show functions."}
+readonly_supported: false
+nonroot_supported: false
 # application setup block
 app_setup_block_enabled: true
 app_setup_block: |
