@@ -74,7 +74,7 @@ netcat-openbsd          1.226.1.1-r0      apk
 nghttp2-libs            1.64.0-r0         apk                     
 num2words               0.5.14            python                  
 oniguruma               6.9.9-r0          apk                     
-packaging               24.2              python                  
+packaging               24.2              python  (+1 duplicate)  
 pathvalidate            3.2.3             python                  
 pcre2                   10.43-r0          apk                     
 pillow                  11.1.0            python                  
@@ -112,8 +112,9 @@ typing-extensions       4.12.2            python
 tzdata                  2025b-r0          apk                     
 urllib3                 2.3.0             python                  
 utmps-libs              0.1.2.3-r2        apk                     
-wheel                   0.45.1            python  (+1 duplicate)  
-xz-libs                 5.6.3-r0          apk                     
+wheel                   0.45.1            python                  
+wheel                   0.46.1            python                  
+xz-libs                 5.6.3-r1          apk                     
 zipp                    3.19.2            python                  
 zlib                    1.3.1-r2          apk                     
 zstd-libs               1.5.6-r2          apk                     
