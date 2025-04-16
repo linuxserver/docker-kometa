@@ -102,7 +102,7 @@ shadow                  4.16.0-r1         apk
 six                     1.17.0            python                  
 skalibs-libs            2.14.3.0-r0       apk                     
 smmap                   5.0.2             python                  
-sqlite-libs             3.48.0-r0         apk                     
+sqlite-libs             3.48.0-r1         apk                     
 ssl_client              1.37.0-r12        apk                     
 tenacity                9.1.2             python                  
 tmdbapis                1.2.28            python                  
