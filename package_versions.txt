@@ -16,7 +16,7 @@ c-ares                  1.34.5-r0         apk
 ca-certificates         20241121-r1       apk                     
 ca-certificates-bundle  20241121-r1       apk                     
 catatonit               0.2.0-r0          apk                     
-certifi                 2025.1.31         python                  
+certifi                 2025.4.26         python                  
 charset-normalizer      3.4.1             python                  
 cloudscraper            1.2.71            python                  
 coreutils               9.5-r2            apk                     
@@ -78,7 +78,7 @@ packaging               24.2              python
 pathvalidate            3.2.3             python                  
 pcre2                   10.43-r0          apk                     
 pillow                  11.2.1            python                  
-pip                     25.0.1            python                  
+pip                     25.1              python                  
 platformdirs            4.2.2             python                  
 plexapi                 4.17.0            python                  
 procps-ng               4.0.4-r2          apk                     
