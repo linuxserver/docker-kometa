@@ -17,7 +17,7 @@ ca-certificates         20241121-r1       apk
 ca-certificates-bundle  20241121-r1       apk                     
 catatonit               0.2.0-r0          apk                     
 certifi                 2025.4.26         python                  
-charset-normalizer      3.4.1             python                  
+charset-normalizer      3.4.2             python                  
 cloudscraper            1.2.71            python                  
 coreutils               9.5-r2            apk                     
 coreutils-env           9.5-r2            apk                     
@@ -78,7 +78,7 @@ packaging               24.2              python
 pathvalidate            3.2.3             python                  
 pcre2                   10.43-r0          apk                     
 pillow                  11.1.0            python                  
-pip                     25.1              python                  
+pip                     25.1.1            python                  
 platformdirs            4.2.2             python                  
 plexapi                 4.16.1            python                  
 procps-ng               4.0.4-r2          apk                     
@@ -102,7 +102,7 @@ shadow                  4.16.0-r1         apk
 six                     1.17.0            python                  
 skalibs-libs            2.14.3.0-r0       apk                     
 smmap                   5.0.2             python                  
-sqlite-libs             3.48.0-r1         apk                     
+sqlite-libs             3.48.0-r2         apk                     
 ssl_client              1.37.0-r12        apk                     
 tenacity                9.0.0             python                  
 tmdbapis                1.2.28            python                  
