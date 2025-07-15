@@ -82,7 +82,7 @@ init_diagram: |
     svc-kometa -> legacy-services
   }
   Base Images: {
-    "baseimage-alpine:3.21"
+    "baseimage-alpine:3.22"
   }
   "kometa:develop" <- Base Images
 # changelog
