@@ -4,7 +4,7 @@ acl-libs                2.3.2-r1          apk
 alpine-baselayout       3.7.0-r0          apk                      
 alpine-baselayout-data  3.7.0-r0          apk                      
 alpine-keys             2.5-r0            apk                      
-alpine-release          3.22.1-r0         apk                      
+alpine-release          3.22.2-r0         apk                      
 apk-tools               2.14.9-r3         apk                      
 arrapi                  1.4.14            python                   
 autocommand             2.2.2             python                   
@@ -18,7 +18,7 @@ ca-certificates         20250911-r0       apk
 ca-certificates-bundle  20250911-r0       apk                      
 catatonit               0.2.1-r0          apk                      
 certifi                 2025.10.5         python                   
-charset-normalizer      3.4.3             python                   
+charset-normalizer      3.4.4             python                   
 cli                     UNKNOWN           binary                   
 cli-32                  UNKNOWN           binary                   
 cli-64                  UNKNOWN           binary                   
@@ -39,7 +39,7 @@ gui                     UNKNOWN           binary
 gui-32                  UNKNOWN           binary                   
 gui-64                  UNKNOWN           binary                   
 gui-arm64               UNKNOWN           binary                   
-idna                    3.10              python                   
+idna                    3.11              python                   
 importlib-metadata      8.0.0             python                   
 inflect                 7.3.1             python                   
 jaraco-collections      5.1.0             python                   
@@ -68,7 +68,7 @@ libpsl                  0.21.5-r3         apk
 libssl3                 3.5.4-r0          apk                      
 libstdc++               14.2.0-r6         apk                      
 libunistring            1.3-r0            apk                      
-libxml2                 2.13.8-r0         apk                      
+libxml2                 2.13.9-r0         apk                      
 libxslt                 1.1.43-r3         apk                      
 linux-pam               1.7.0-r4          apk                      
 lxml                    6.0.2             python                   
@@ -91,13 +91,13 @@ platformdirs            4.2.2             python
 plexapi                 4.17.1            python                   
 procps-ng               4.0.4-r3          apk                      
 psutil                  7.1.0             python                   
-pyc                     3.12.11-r0        apk                      
+pyc                     3.12.12-r0        apk                      
 pyparsing               3.2.5             python                   
 python-dateutil         2.9.0.post0       python                   
 python-dotenv           1.1.1             python                   
-python3                 3.12.11-r0        apk                      
-python3-pyc             3.12.11-r0        apk                      
-python3-pycache-pyc0    3.12.11-r0        apk                      
+python3                 3.12.12-r0        apk                      
+python3-pyc             3.12.12-r0        apk                      
+python3-pycache-pyc0    3.12.12-r0        apk                      
 readline                8.2.13-r1         apk                      
 requests                2.32.5            python                   
 requests-toolbelt       1.0.0             python                   
