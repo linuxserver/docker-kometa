@@ -86,7 +86,7 @@ packaging               24.2              python
 pathvalidate            3.3.1             python                   
 pcre2                   10.46-r0          apk                      
 pillow                  11.3.0            python                   
-pip                     25.2              python                   
+pip                     25.3              python                   
 platformdirs            4.2.2             python                   
 plexapi                 4.17.1            python                   
 procps-ng               4.0.4-r3          apk                      
