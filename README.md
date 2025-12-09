@@ -94,9 +94,9 @@ services:
       - PGID=1000
       - TZ=Etc/UTC
       - KOMETA_CONFIG=/config/config.yml #optional
-      - KOMETA_TIME=03:00 #optional
+      - KOMETA_TIMES=03:00 #optional
       - KOMETA_RUN=False #optional
-      - KOMETA_TEST=False #optional
+      - KOMETA_TESTS=False #optional
       - KOMETA_NO_MISSING=False #optional
     volumes:
       - /path/to/kometa/config:/config
@@ -112,9 +112,9 @@ docker run -d \
   -e PGID=1000 \
   -e TZ=Etc/UTC \
   -e KOMETA_CONFIG=/config/config.yml `#optional` \
-  -e KOMETA_TIME=03:00 `#optional` \
+  -e KOMETA_TIMES=03:00 `#optional` \
   -e KOMETA_RUN=False `#optional` \
-  -e KOMETA_TEST=False `#optional` \
+  -e KOMETA_TESTS=False `#optional` \
   -e KOMETA_NO_MISSING=False `#optional` \
   -v /path/to/kometa/config:/config \
   --restart unless-stopped \
@@ -131,9 +131,9 @@ Containers are configured using parameters passed at runtime (such as those abov
 | `-e PGID=1000` | for GroupID - see below for explanation |
 | `-e TZ=Etc/UTC` | specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
 | `-e KOMETA_CONFIG=/config/config.yml` | Specify a custom config file to use. |
-| `-e KOMETA_TIME=03:00` | Comma-separated list of times to update each day. Format: `HH:MM`. |
+| `-e KOMETA_TIMES=03:00` | Comma-separated list of times to update each day. Format: `HH:MM`. |
 | `-e KOMETA_RUN=False` | Set to `True` to run without the scheduler. |
-| `-e KOMETA_TEST=False` | Set to `True` to run in debug mode with only collections that have `test: true`. |
+| `-e KOMETA_TESTS=False` | Set to `True` to run in debug mode with only collections that have `test: true`. |
 | `-e KOMETA_NO_MISSING=False` | Set to `True` to run without any of the missing movie/show functions. |
 | `-v /config` | Persistent config files |
 

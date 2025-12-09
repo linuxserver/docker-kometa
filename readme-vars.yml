@@ -27,9 +27,9 @@ param_volumes:
 opt_param_usage_include_env: true
 opt_param_env_vars:
   - {env_var: "KOMETA_CONFIG", env_value: "/config/config.yml", desc: "Specify a custom config file to use."}
-  - {env_var: "KOMETA_TIME", env_value: "03:00", desc: "Comma-separated list of times to update each day. Format: `HH:MM`."}
+  - {env_var: "KOMETA_TIMES", env_value: "03:00", desc: "Comma-separated list of times to update each day. Format: `HH:MM`."}
   - {env_var: "KOMETA_RUN", env_value: "False", desc: "Set to `True` to run without the scheduler."}
-  - {env_var: "KOMETA_TEST", env_value: "False", desc: "Set to `True` to run in debug mode with only collections that have `test: true`."}
+  - {env_var: "KOMETA_TESTS", env_value: "False", desc: "Set to `True` to run in debug mode with only collections that have `test: true`."}
   - {env_var: "KOMETA_NO_MISSING", env_value: "False", desc: "Set to `True` to run without any of the missing movie/show functions."}
 readonly_supported: false
 nonroot_supported: false
