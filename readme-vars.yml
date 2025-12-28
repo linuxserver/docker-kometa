@@ -88,6 +88,7 @@ init_diagram: |
   "kometa:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "28.12.25:", desc: "Rebase to Alpine 3.23."}
   - {date: "09.07.25:", desc: "Rebase to Alpine 3.22."}
   - {date: "06.01.25:", desc: "Rebase to Alpine 3.21."}
   - {date: "24.06.24:", desc: "Rebase to Alpine 3.20."}
