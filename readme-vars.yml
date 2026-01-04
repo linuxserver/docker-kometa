@@ -83,7 +83,7 @@ init_diagram: |
     svc-kometa -> legacy-services
   }
   Base Images: {
-    "baseimage-alpine:3.22"
+    "baseimage-alpine:3.23"
   }
   "kometa:nightly" <- Base Images
 # changelog
