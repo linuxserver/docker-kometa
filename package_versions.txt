@@ -94,7 +94,7 @@ plexapi                 4.17.2            python
 procps-ng               4.0.5-r0          apk                      
 psutil                  7.2.1             python                   
 pyc                     3.12.12-r0        apk                      
-pyparsing               3.3.1             python                   
+pyparsing               3.3.2             python                   
 python-dateutil         2.9.0.post0       python                   
 python-dotenv           1.2.1             python                   
 python3                 3.12.12-r0        apk                      
