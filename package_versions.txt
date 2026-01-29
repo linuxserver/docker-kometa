@@ -81,8 +81,7 @@ nghttp2-libs            1.68.0-r0         apk
 nghttp3                 1.13.1-r0         apk                      
 num2words               0.5.14            python                   
 oniguruma               6.9.10-r0         apk                      
-packaging               25.0              python                   
-packaging               26.0              python                   
+packaging               26.0              python  (+1 duplicate)   
 pathvalidate            3.3.1             python                   
 pcre2                   10.47-r0          apk                      
 pillow                  12.1.0            python                   
@@ -90,7 +89,7 @@ pip                     25.3              python
 platformdirs            4.4.0             python                   
 plexapi                 4.17.2            python                   
 procps-ng               4.0.5-r0          apk                      
-psutil                  7.2.1             python                   
+psutil                  7.2.2             python                   
 pyc                     3.12.12-r0        apk                      
 pyparsing               3.3.2             python                   
 python-dateutil         2.9.0.post0       python                   
@@ -104,7 +103,7 @@ requests-toolbelt       1.0.0             python
 ruamel-yaml             0.19.1            python                   
 scanelf                 1.3.8-r2          apk                      
 schedule                1.2.2             python                   
-setuptools              80.10.1           python                   
+setuptools              80.10.2           python                   
 shadow                  4.18.0-r0         apk                      
 six                     1.17.0            python                   
 skalibs-libs            2.14.4.0-r0       apk                      
@@ -117,8 +116,7 @@ tomli                   2.4.0             python
 tzdata                  2025c-r0          apk                      
 urllib3                 2.6.3             python                   
 utmps-libs              0.1.3.1-r0        apk                      
-wheel                   0.45.1            python                   
-wheel                   0.46.3            python                   
+wheel                   0.46.3            python  (+1 duplicate)   
 xz-libs                 5.8.2-r0          apk                      
 zipp                    3.23.0            python                   
 zlib                    1.3.1-r2          apk                      
