@@ -18,7 +18,7 @@ ca-certificates         20251003-r0       apk
 ca-certificates-bundle  20251003-r0       apk                      
 catatonit               0.2.1-r0          apk                      
 certifi                 2026.2.25         python                   
-charset-normalizer      3.4.4             python                   
+charset-normalizer      3.4.5             python                   
 cli                     UNKNOWN           binary                   
 cli-32                  UNKNOWN           binary                   
 cli-64                  UNKNOWN           binary                   
@@ -83,7 +83,7 @@ oniguruma               6.9.10-r0         apk
 packaging               26.0              python  (+1 duplicate)   
 pathvalidate            3.3.1             python                   
 pcre2                   10.47-r0          apk                      
-pillow                  12.1.0            python                   
+pillow                  12.1.1            python                   
 pip                     26.0.1            python                   
 platformdirs            4.4.0             python                   
 plexapi                 4.18.0            python                   
@@ -92,7 +92,7 @@ psutil                  7.2.2             python
 pyc                     3.12.12-r0        apk                      
 pyparsing               3.3.2             python                   
 python-dateutil         2.9.0.post0       python                   
-python-dotenv           1.2.1             python                   
+python-dotenv           1.2.2             python                   
 python3                 3.12.12-r0        apk                      
 python3-pyc             3.12.12-r0        apk                      
 python3-pycache-pyc0    3.12.12-r0        apk                      
@@ -112,11 +112,11 @@ ssl_client              1.37.0-r30        apk
 tenacity                9.1.4             python                   
 tmdbapis                1.2.30            python                   
 tomli                   2.4.0             python                   
-tzdata                  2025c-r0          apk                      
+tzdata                  2026a-r0          apk                      
 urllib3                 2.6.3             python                   
 utmps-libs              0.1.3.1-r0        apk                      
 wheel                   0.46.3            python  (+1 duplicate)   
 xz-libs                 5.8.2-r0          apk                      
 zipp                    3.23.0            python                   
-zlib                    1.3.1-r2          apk                      
+zlib                    1.3.2-r0          apk                      
 zstd-libs               1.5.7-r2          apk                      
