@@ -26,7 +26,7 @@ cli                     UNKNOWN           binary
 cli-32                  UNKNOWN           binary                   
 cli-64                  UNKNOWN           binary                   
 cli-arm64               UNKNOWN           binary                   
-click                   8.4.0             python                   
+click                   8.4.1             python                   
 cloudscraper            1.2.71            python                   
 coreutils               9.8-r1            apk                      
 coreutils-env           9.8-r1            apk                      
@@ -45,7 +45,7 @@ gui                     UNKNOWN           binary
 gui-32                  UNKNOWN           binary                   
 gui-64                  UNKNOWN           binary                   
 gui-arm64               UNKNOWN           binary                   
-idna                    3.15              python                   
+idna                    3.16              python                   
 importlib-metadata      8.7.1             python                   
 jaraco-context          6.1.0             python                   
 jaraco-functools        4.4.0             python                   
@@ -123,7 +123,7 @@ shadow                  4.18.0-r0         apk
 six                     1.17.0            python                   
 skalibs-libs            2.14.4.0-r0       apk                      
 smmap                   5.0.3             python                   
-soupsieve               2.8.3             python                   
+soupsieve               2.8.4             python                   
 sqlite-libs             3.51.2-r0         apk                      
 ssl_client              1.37.0-r30        apk                      
 tenacity                9.1.4             python                   
