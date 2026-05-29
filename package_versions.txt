@@ -45,7 +45,7 @@ gui                     UNKNOWN           binary
 gui-32                  UNKNOWN           binary                   
 gui-64                  UNKNOWN           binary                   
 gui-arm64               UNKNOWN           binary                   
-idna                    3.16              python                   
+idna                    3.17              python                   
 importlib-metadata      8.7.1             python                   
 jaraco-context          6.1.0             python                   
 jaraco-functools        4.4.0             python                   
@@ -76,7 +76,7 @@ libunistring            1.4.1-r0          apk
 libxml2                 2.13.9-r0         apk                      
 libxslt                 1.1.43-r3         apk                      
 linux-pam               1.7.1-r2          apk                      
-lxml                    6.1.0             python                   
+lxml                    6.1.1             python                   
 markdown                3.10.2            python                   
 markdown-it-py          4.2.0             python                   
 mdurl                   0.1.2             python                   
@@ -111,7 +111,7 @@ python3-pyc             3.12.13-r0        apk
 python3-pycache-pyc0    3.12.13-r0        apk                      
 pyyaml                  6.0.3             python                   
 readline                8.3.1-r0          apk                      
-requests                2.34.1            python                   
+requests                2.34.2            python                   
 requests-oauthlib       2.0.0             python                   
 requests-toolbelt       1.0.0             python                   
 rich                    15.0.0            python                   
