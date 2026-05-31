@@ -6,7 +6,7 @@ alpine-baselayout-data  3.7.2-r0          apk
 alpine-keys             2.6-r0            apk                      
 alpine-release          3.23.4-r0         apk                      
 apk-tools               3.0.6-r0          apk                      
-apprise                 1.10.0            python                   
+apprise                 1.11.0            python                   
 arrapi                  1.4.14            python                   
 autocommand             2.2.2             python                   
 backports-tarfile       1.2.0             python                   
@@ -73,7 +73,7 @@ libpsl                  0.21.5-r3         apk
 libssl3                 3.5.6-r0          apk                      
 libstdc++               15.2.0-r2         apk                      
 libunistring            1.4.1-r0          apk                      
-libxml2                 2.13.9-r0         apk                      
+libxml2                 2.13.9-r1         apk                      
 libxslt                 1.1.43-r3         apk                      
 linux-pam               1.7.1-r2          apk                      
 lxml                    6.1.1             python                   
