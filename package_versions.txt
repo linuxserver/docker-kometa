@@ -39,7 +39,7 @@ gui                     UNKNOWN           binary
 gui-32                  UNKNOWN           binary                   
 gui-64                  UNKNOWN           binary                   
 gui-arm64               UNKNOWN           binary                   
-idna                    3.16              python                   
+idna                    3.18              python                   
 importlib-metadata      8.7.1             python                   
 jaraco-context          6.1.0             python                   
 jaraco-functools        4.4.0             python                   
@@ -66,7 +66,7 @@ libpsl                  0.21.5-r3         apk
 libssl3                 3.5.6-r0          apk                      
 libstdc++               15.2.0-r2         apk                      
 libunistring            1.4.1-r0          apk                      
-libxml2                 2.13.9-r0         apk                      
+libxml2                 2.13.9-r1         apk                      
 libxslt                 1.1.43-r3         apk                      
 linux-pam               1.7.1-r2          apk                      
 lxml                    6.0.2             python                   
@@ -83,7 +83,7 @@ packaging               26.0              python  (+1 duplicate)
 pathvalidate            3.3.1             python                   
 pcre2                   10.47-r0          apk                      
 pillow                  12.1.1            python                   
-pip                     26.1.1            python                   
+pip                     26.1.2            python                   
 platformdirs            4.4.0             python                   
 plexapi                 4.18.1            python                   
 procps-ng               4.0.5-r0          apk                      
