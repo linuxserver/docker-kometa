@@ -11,7 +11,7 @@ arrapi                  1.4.14            python
 autocommand             2.2.2             python                   
 backports-tarfile       1.2.0             python                   
 bash                    5.3.3-r1          apk                      
-beautifulsoup4          4.14.3            python                   
+beautifulsoup4          4.15.0            python                   
 brotli-libs             1.2.0-r0          apk                      
 busybox                 1.37.0-r30        apk                      
 busybox-binsh           1.37.0-r30        apk                      
