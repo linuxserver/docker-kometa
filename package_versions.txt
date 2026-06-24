@@ -27,7 +27,7 @@ cli                        UNKNOWN           binary
 cli-32                     UNKNOWN           binary                   
 cli-64                     UNKNOWN           binary                   
 cli-arm64                  UNKNOWN           binary                   
-click                      8.4.1             python                   
+click                      8.4.2             python                   
 cloudscraper               1.2.71            python                   
 coreutils                  9.8-r1            apk                      
 coreutils-env              9.8-r1            apk                      
