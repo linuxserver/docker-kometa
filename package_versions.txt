@@ -40,7 +40,7 @@ fastfingertips             0.1.4             python
 findutils                  4.10.0-r1         apk                      
 gdbm                       1.26-r0           apk                      
 gitdb                      4.0.12            python                   
-gitpython                  3.1.51            python                   
+gitpython                  3.1.53            python                   
 grep                       3.12-r0           apk                      
 gui                        UNKNOWN           binary                   
 gui-32                     UNKNOWN           binary                   
@@ -128,7 +128,7 @@ shadow                     4.18.0-r1         apk
 six                        1.17.0            python                   
 skalibs-libs               2.15.0.0-r0       apk                      
 smmap                      5.0.3             python                   
-soupsieve                  2.9               python                   
+soupsieve                  2.9.1             python                   
 sqlite-libs                3.53.2-r0         apk                      
 ssl_client                 1.37.0-r31        apk                      
 tenacity                   9.1.4             python                   
