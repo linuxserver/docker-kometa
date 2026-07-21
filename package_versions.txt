@@ -128,7 +128,7 @@ shadow                     4.18.0-r1         apk
 six                        1.17.0            python                   
 skalibs-libs               2.15.0.0-r0       apk                      
 smmap                      5.0.3             python                   
-soupsieve                  2.8.4             python                   
+soupsieve                  2.9               python                   
 sqlite-libs                3.53.2-r0         apk                      
 ssl_client                 1.37.0-r31        apk                      
 tenacity                   9.1.4             python                   
