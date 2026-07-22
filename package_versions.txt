@@ -40,7 +40,7 @@ fastfingertips             0.1.4             python
 findutils                  4.10.0-r1         apk                      
 gdbm                       1.26-r0           apk                      
 gitdb                      4.0.12            python                   
-gitpython                  3.1.53            python                   
+gitpython                  3.1.54            python                   
 grep                       3.12-r0           apk                      
 gui                        UNKNOWN           binary                   
 gui-32                     UNKNOWN           binary                   
