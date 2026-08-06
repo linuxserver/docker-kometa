@@ -18,6 +18,7 @@ RUN \
   echo "**** install packages ****" && \
   apk add -U --update --no-cache --virtual=build-dependencies \
     build-base \
+    git \
     libffi-dev \
     libxml2-dev \
     libzen-dev \
