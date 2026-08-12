@@ -24,7 +24,7 @@ ca-certificates-bundle     20260611-r0       apk
 catatonit                  0.2.1-r0          apk                      
 certifi                    2026.7.22         python                   
 cffi                       2.1.1             python                   
-charset-normalizer         3.4.9             python                   
+charset-normalizer         3.5.0             python                   
 cli                        UNKNOWN           binary                   
 cli-32                     UNKNOWN           binary                   
 cli-64                     UNKNOWN           binary                   
@@ -142,7 +142,7 @@ termcolor                  3.3.0             python
 tmdbapis                   1.2.30            python                   
 tomli                      2.4.0             python                   
 typing-extensions          4.16.0            python                   
-typing-inspection          0.4.3             python                   
+typing-inspection          0.4.4             python                   
 tzdata                     2026c-r0          apk                      
 urllib3                    2.7.0             python                   
 utmps-libs                 0.1.3.3-r0        apk                      
