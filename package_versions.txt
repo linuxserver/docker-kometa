@@ -24,7 +24,7 @@ ca-certificates-bundle     20260611-r0       apk
 catatonit                  0.2.1-r0          apk                      
 certifi                    2026.7.22         python                   
 cffi                       2.1.1             python                   
-charset-normalizer         3.5.0             python                   
+charset-normalizer         3.5.1             python                   
 cli                        UNKNOWN           binary                   
 cli-32                     UNKNOWN           binary                   
 cli-64                     UNKNOWN           binary                   
@@ -38,7 +38,6 @@ coreutils-sha512sum        9.11-r0           apk
 curl                       8.21.0-r0         apk                      
 curl-cffi                  0.16.0            python                   
 docopt                     0.6.2             python                   
-expat                      2.8.2-r0          apk                      
 fastfingertips             0.1.4             python                   
 findutils                  4.10.0-r1         apk                      
 gdbm                       1.26-r0           apk                      
@@ -108,7 +107,7 @@ platformdirs               4.4.0             python
 plexapi                    4.18.2            python                   
 procps-ng                  4.0.6-r0          apk                      
 psutil                     7.2.2             python                   
-pyc                        3.14.7-r0         apk                      
+pyc                        3.14.7-r1         apk                      
 pycparser                  3.0               python                   
 pydantic                   2.13.4            python                   
 pydantic-core              2.46.4            python                   
@@ -116,9 +115,9 @@ pyinstrument               5.1.3             python
 pyparsing                  3.3.2             python                   
 python-dateutil            2.9.0.post0       python                   
 python-dotenv              1.2.2             python                   
-python3                    3.14.7-r0         apk                      
-python3-pyc                3.14.7-r0         apk                      
-python3-pycache-pyc0       3.14.7-r0         apk                      
+python3                    3.14.7-r1         apk                      
+python3-pyc                3.14.7-r1         apk                      
+python3-pycache-pyc0       3.14.7-r1         apk                      
 pyyaml                     6.0.3             python                   
 readline                   8.3.3-r1          apk                      
 referencing                0.37.0            python                   
