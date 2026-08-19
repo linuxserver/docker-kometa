@@ -51,7 +51,7 @@ gui-arm64                  UNKNOWN           binary
 h11                        0.16.0            python                   
 httpcore                   1.0.9             python                   
 httpx                      0.28.1            python                   
-idna                       3.18              python                   
+idna                       3.19              python                   
 importlib-metadata         8.7.1             python                   
 jaraco-context             6.1.0             python                   
 jaraco-functools           4.4.0             python                   
