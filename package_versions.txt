@@ -124,7 +124,7 @@ referencing                0.37.0            python
 requests                   2.34.2            python                   
 requests-oauthlib          2.0.0             python                   
 requests-toolbelt          1.0.0             python                   
-rpds-py                    2026.6.3          python                   
+rpds-py                    2026.9.1          python                   
 ruamel-yaml                0.19.1            python                   
 scanelf                    1.3.9-r1          apk                      
 schedule                   1.2.2             python                   
