@@ -67,7 +67,7 @@ libbsd                     0.12.2-r0         apk
 libbz2                     1.0.8-r6          apk                      
 libcrypto3                 3.5.9-r0          apk                      
 libcurl                    8.22.0-r0         apk                      
-libexpat                   2.8.5-r0          apk                      
+libexpat                   2.9.0-r0          apk                      
 libffi                     3.5.2-r1          apk                      
 libgcc                     15.2.0-r5         apk                      
 libidn2                    2.3.8-r0          apk                      
@@ -102,7 +102,7 @@ packaging                  26.3              python
 pathvalidate               3.3.1             python                   
 pcre2                      10.49-r0          apk                      
 pillow                     12.3.0            python                   
-pip                        26.2.1            python                   
+pip                        26.2.2            python                   
 platformdirs               4.4.0             python                   
 plexapi                    4.18.3            python                   
 procps-ng                  4.0.6-r0          apk                      
