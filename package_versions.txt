@@ -35,7 +35,7 @@ coreutils                  9.11-r0           apk
 coreutils-env              9.11-r0           apk                      
 coreutils-fmt              9.11-r0           apk                      
 coreutils-sha512sum        9.11-r0           apk                      
-curl                       8.22.0-r0         apk                      
+curl                       8.23.0-r0         apk                      
 curl-cffi                  0.17.0            python                   
 docopt                     0.6.2             python                   
 fastfingertips             0.1.4             python                   
@@ -62,13 +62,13 @@ jq                         1.8.2-r0          apk
 jsonschema                 4.26.0            python                   
 jsonschema-specifications  2025.9.1          python                   
 langcodes                  3.5.1             python                   
-letterboxdpy               6.6.1             python                   
+letterboxdpy               6.7.0             python                   
 libapk                     3.0.8-r0          apk                      
 libattr                    2.5.2-r2          apk                      
 libbsd                     0.12.2-r0         apk                      
 libbz2                     1.0.8-r6          apk                      
 libcrypto3                 3.5.9-r0          apk                      
-libcurl                    8.22.0-r0         apk                      
+libcurl                    8.23.0-r0         apk                      
 libexpat                   2.9.0-r0          apk                      
 libffi                     3.5.2-r1          apk                      
 libgcc                     15.2.0-r5         apk                      
